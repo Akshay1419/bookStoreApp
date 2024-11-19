@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Free",
+        "image" : "/public/book1.png"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 20 ,
+        "category":"Entainment",
+        "image" : "/public/book1.png"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 50 ,
+        "category":"Sport Book",
+        "image" : "/public/book1.png"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Song",
+        "image" : "/public/book1.png"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 200 ,
+        "category":"Food",
+        "image" : "/public/book1.png"
+    }
+    ,
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Free",
+        "image" : "/public/book1.png"
+    },
+
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Free",
+        "image" : "/public/book1.png"
+    },
+    
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Free",
+        "image" : "/public/book1.png"
+    },
+    
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Free",
+        "image" : "/public/book1.png"
+    }
+    ,
+    
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Free",
+        "image" : "/public/book1.png"
+    }
+    ,
+    
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit." ,
+        "price": 0 ,
+        "category":"Free",
+        "image" : "/public/book1.png"
+    }
+    
+    
+]
